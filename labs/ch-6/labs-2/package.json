@@ -1,0 +1,17 @@
+{
+  "name": "labs-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "semver": "^7.3.4",
+    "fastify": "^2.0.0",
+    "rfdc": "1.1.3" 
+  }
+}
